@@ -20,6 +20,6 @@ Built using **LangChain**, **OpenAI GPT-4o**, and **ChromaDB**, the system retri
 ## 📂 Project Structure
 ```bash
 ├── data/                  # Contains the source PDF transcript
-├── qa_chatbot.ipynb       # Main Jupyter Notebook with the RAG pipeline
+├── LangChain_project.ipynb       # Main Jupyter Notebook with the RAG pipeline
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
