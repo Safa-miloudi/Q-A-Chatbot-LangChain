@@ -1,4 +1,4 @@
-## 🤖 Q&A Chatbot for Tableau Course (RAG Pipeline)
+## 🤖 Q&A Chatbot with LangChain
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot capable of answering student questions based on the "Introduction to Tableau" course transcript.
 
